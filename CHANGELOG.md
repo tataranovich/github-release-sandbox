@@ -1,3 +1,4 @@
 - feature 1
 - feature 2
 - fix feature 2
+- specific fix for feature 1
