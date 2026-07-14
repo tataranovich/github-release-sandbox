@@ -3,3 +3,4 @@
 - fix feature 2
 - feature 45
 - feature 46
+- fix for feature 45
